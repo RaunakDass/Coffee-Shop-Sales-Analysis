@@ -31,6 +31,12 @@ This project involves analyzing the sales data of a coffee shop chain with multi
 - **Power BI**: For creating an interactive and visually appealing dashboard.
 - **DAX (Data Analysis Expressions)**: For complex calculations and data manipulation in Power BI.
 
+  ![Screenshot 2024-06-26 011428](https://github.com/RaunakDass/Coffee-Shop-Sales-Analysis/assets/142901720/3f19f819-d940-4cec-a1a1-a12a88194de2)
+
+  ![Screenshot 2024-06-26 011519](https://github.com/RaunakDass/Coffee-Shop-Sales-Analysis/assets/142901720/d24e57c5-e79a-4ebf-b983-cc8a0f9a5bba)
+
+  ![Screenshot 2024-06-26 011541](https://github.com/RaunakDass/Coffee-Shop-Sales-Analysis/assets/142901720/725823af-3795-4198-93c0-f7bde439a7b9)
+
 ## Getting Started
 To set up and explore the project, follow these steps:
 1. Clone this repository to your local machine.
